@@ -1,2 +1,2 @@
-#!bin/bash
+#!/bin/bash
 change directory ~ [user_name]
