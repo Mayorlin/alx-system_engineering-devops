@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "\"(Ôo)'"
+=======
+echo " "(Ôo)'"
+>>>>>>> parent of 7472ce0... 1-confused_smiley
